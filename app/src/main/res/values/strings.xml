@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Noticia</string>
+    <string name="titulo">CFE construye un sistema eléctrico integral para Tren Maya</string>
+    <string name="encabezado">La Comisión Federal de Electricidad (CFE) calificó como una hazaña el electrificar el 44% del Tren Maya, es decir, 690 de los mil 554 kilómetros de la obra.</string>
+    <string name="cuerpo">La empresa productiva del Estado, que encabeza Manuel Bartlett también suministrará la energía para los 155 servicios que requiere para su funcionamiento tales como casetas, oficinas, talleres y cocheras. En enero de este año, la CFE había estimado una inversión de seis mil 587 millones de pesos para dichas obras, pero ésta ya asciende a más de ocho mil millones de pesos. El presidente Andrés Manuel López Obrador y Bartlett Díaz destacaron que con estas obras de electrificación se creará un sistema integral que se interconectará al Sistema Eléctrico Nacional (SIN), conducido por el Centro Nacional de Control de Energía.</string>
+</resources>
